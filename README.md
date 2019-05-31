@@ -1,12 +1,12 @@
 # Portfolio
 
-#### first independent project at Epicodus 05-31-2019
+#### The first independent project at Epicodus 05-31-2019
 
-#### Tamara Trefilova
+#### Author: Tamara Trefilova
 
-## Description
+## Description:
 
-## The goal is  to create a portfolio webpage using HTML and CSS, which will later act as the landing page for my programming portfolio.
+### The goal is  to create a portfolio webpage using HTML and CSS, which will later act as the landing page for my programming portfolio.
 
 ## Setup/Installation Requirements
 
@@ -27,7 +27,7 @@ tamara.trefilova@gmail.com
 
 ## Technologies Used
 
-HTML, CSS, Bootstrap and some fantazy
+HTML, CSS, Bootstrap and some fantasy
 
 ### License
 
