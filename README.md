@@ -6,7 +6,7 @@
 
 ## Description
 
-##The goal is  to create a portfolio webpage using HTML and CSS, which will later act as the landing page for my programming portfolio.
+## The goal is  to create a portfolio webpage using HTML and CSS, which will later act as the landing page for my programming portfolio.
 
 ## Setup/Installation Requirements
 
