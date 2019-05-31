@@ -22,3 +22,16 @@ h1{
   font-family: sans-serif;
   color: #1d5dc4;
 }
+
+.contacts p a{
+  color:#090760;
+  font-size: 15px;
+  font-family: fantasy;
+}
+
+a{
+  color:#131642;
+  font-size: 20px;
+  font-family:cursive;
+  font-weight: bolder;
+}
