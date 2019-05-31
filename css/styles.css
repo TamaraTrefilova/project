@@ -1,45 +1,50 @@
-body{
+body {
   background-color: #d2f7f6;
 }
 
-h1{
+.jumbotron {
+  color: #131642;
+  background-color: #a2f1f2;
+}
+
+h1 {
   text-align: center;
   color: #131642;
 }
- img{
-   float: left;
- }
+
+img {
+  float: left;
+}
 
 .intro {
   text-align: center;
-  font-size: 20px;
-  margin-top: 10%;
-  margin-bottom: 10%;
-  margin-right: 20%;
+  font-size: 18px;
+  margin-right: 10%;
   color: #0b115b;
 }
 
-.text{
+.text {
   font-size: 18px;
   color: #0b115b;
 }
-.fancy{
+
+.fancy {
   font-size: 18px;
   font-style: italic;
   font-family: sans-serif;
   color: #1d5dc4;
 }
 
-.contacts p a{
-  color:#0b115b;
+.contacts p a {
+  color: #0b115b;
   font-size: 15px;
-  font-family:sans-serif;
+  font-family: sans-serif;
   font-weight: bolder;
 }
 
-a{
-  color:#1d5dc4;
+a {
+  color: #1d5dc4;
   font-size: 18px;
-  font-family:sans-serif;
+  font-family: sans-serif;
   font-weight: bolder;
 }
