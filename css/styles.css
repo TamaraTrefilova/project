@@ -7,13 +7,21 @@ body {
   background-color: #a2f1f2;
 }
 
-h1 {
-  text-align: center;
-  color: #131642;
+.sidebar img {
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 img {
-  float: left;
+  float:right;
+}
+
+h1 {
+  text-align: center;
+  color: #131642;
 }
 
 .intro {
