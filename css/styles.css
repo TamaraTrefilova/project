@@ -7,10 +7,10 @@ body {
   background-color: #a2f1f2;
 }
 
-.sidebar img {
+.sidebar {
   height: 100%;
   width: 20%;
-  position: fixed;
+  position:relative;
   top: 0;
   left: 0;
 }
