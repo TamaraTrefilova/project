@@ -1,6 +1,10 @@
+body{
+  background-color: #d2f7f6;
+}
+
 h1{
   text-align: center;
-  color: blue;
+  color: #1d7ec4;
 }
  img{
    float: left;
@@ -12,3 +16,9 @@ h1{
    margin-left: 1%;
    margin-top: 2%
  }
+.fancy{
+  font-size: 15px;
+  font-style: italic;
+  font-family: sans-serif;
+  color: #1d5dc4;
+}
