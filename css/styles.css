@@ -1,4 +1,3 @@
-
 body {
   background-color: #d2f7f6;
 }
@@ -6,6 +5,14 @@ body {
 .jumbotron {
   color: #131642;
   background-color: #a2f1f2;
+}
+
+.sidebar img {
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 img {
